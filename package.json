@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing-practice",
+  "version": "1.0.0",
+  "description": "Introduction to Mocha/Chai and unit testing in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zafirhsn/unit-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zafirhsn/unit-testing-practice/issues"
+  },
+  "homepage": "https://github.com/zafirhsn/unit-testing-practice#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
